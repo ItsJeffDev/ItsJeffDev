@@ -1,5 +1,5 @@
 <h1 align="center">I'm Jeff Kolin Miranda</h1>
-<h3 align="center">Aspiring Software Engineer | Web & .NET Developer | 🇵🇭🔥👨🏻‍💻
+<h3 align="center">Aspiring Software Engineer && Full Stack Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
