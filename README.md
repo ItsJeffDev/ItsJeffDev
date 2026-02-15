@@ -4,8 +4,7 @@
 <div align="center">
 
 ### **17 y/o** Aspiring Software Engineer and Full-Stack Developer  
-*3+ years of programming experience*  
-Client & personal projects · Clean, scalable code · Continuous learning
+*3+ years of programming experience. I’ve worked on client and personal projects, focused on clean, scalable code and continuous learning.*  
 
 </div>
 
