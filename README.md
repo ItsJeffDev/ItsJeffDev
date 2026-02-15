@@ -1,8 +1,14 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=4000&color=32CD322&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jeff+Kolin+Miranda" alt="Typing Animation"/>
 </h1>
+<div align="center">
 
-<h3 align="center">Aspiring Software Engineer & Full Stack Developer</h3>
+### **17 y/o** Aspiring Software Engineer and Full-Stack Developer  
+*3+ years of programming experience*  
+Client & personal projects · Clean, scalable code · Continuous learning
+
+</div>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/jk-dev" target="_blank">
