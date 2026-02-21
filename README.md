@@ -4,7 +4,7 @@
 <div align="center">
 
 ### **17 y/o** Aspiring Software Engineer and Full-Stack Developer  
-3+ years of programming experience developing client and personal projects. I focus on writing clean, scalable, and maintainable code while continuously improving my skills and exploring new technologies.
+2+ years of programming experience developing client and personal projects. I focus on writing clean, scalable, and maintainable code while continuously improving my skills and exploring new technologies.
 
 </div>
 
