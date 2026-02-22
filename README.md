@@ -8,16 +8,17 @@
 
 </div>
 
-
-<p align="center">
+<p align="center" style="gap: 20px; display: flex; justify-content: center; align-items: center;">
   <a href="https://linkedin.com/in/jk-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
+
   <a href="https://fb.com/jeffkolin.miranda" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
   </a>
-  <a href="mailto:developer.jeff01@gmail.com?subject=Hello%20Jeff&body=Hi%20Jeff,%0A%0AI%20want%20to%20connect%20with%20you." target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  <a href="mailto:developer.jeff01@gmail.com?subject=Hello%20Jeff&body=Hi%20Jeff%2C%0A%0AI%20want%20to%20connect%20with%20you." target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
