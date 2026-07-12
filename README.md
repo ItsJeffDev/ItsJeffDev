@@ -4,7 +4,7 @@
 <div align="center">
 
 ### Aspiring Software Engineer and Full-Stack Developer  
-3+ years of programming experience developing client and personal projects. I focus on writing clean, scalable, and maintainable code while continuously improving my skills and exploring new technologies.
+With over 3 years of programming experience, I've developed both client and personal projects across web development and software engineering. I focus on writing clean, scalable, and maintainable code while continuously refining my skills, learning best practices, and exploring new technologies to build reliable and impactful solutions.
 
 </div>
 
