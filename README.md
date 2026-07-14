@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=4000&color=32CD322&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jeff+Kolin+Miranda" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=4000&color=32CD32&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jeff+Kolin+Miranda" alt="Typing Animation"/>
 </h1>
 <div align="center">
 
@@ -59,4 +59,10 @@ With over 3 years of programming experience, I've developed both client and pers
 <h2 align="center">📩 Let's Connect</h2>
 <p align="center">
 Open to internships, collaborations, and freelance opportunities.
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
+
 </p>
