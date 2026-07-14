@@ -8,14 +8,6 @@ With over 3 years of programming experience, I've developed both client and pers
 
 </div>
 
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsJeffDev&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
 <p align="center" style="gap: 20px; display: flex; justify-content: center; align-items: center;">
   <a href="https://linkedin.com/in/jk-dev" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
@@ -30,6 +22,12 @@ With over 3 years of programming experience, I've developed both client and pers
   </a>
 </p>
 
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsJeffDev&theme=vue&hide_border=true"/>
+
+</p>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
