@@ -19,7 +19,7 @@ With over 3 years of programming experience, I've developed both client and pers
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 
-  <a href="https://fb.com/jeffkolin.miranda" target="_blank">
+  <a href="https://www.facebook.com/Jeff-Kolin-Miranda-61591786588844" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
   </a>
 
